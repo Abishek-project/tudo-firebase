@@ -1,0 +1,37 @@
+*{
+    margin: 5%;
+}
+
+h1{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.size{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.align{
+margin-top: 10%;
+}
+
+
+.center{
+    border-style: solid;
+    border-radius: 20px;
+    
+
+
+}
+button{
+    margin-left: 3%;
+    border-radius: 20px;
+    background-color: rgb(73, 13, 201);
+    color: #fff;
+    padding: 8px;
+    font-weight:700;
+}
+button:hover{
+    background-color: rgb(194, 9, 135);
+}
